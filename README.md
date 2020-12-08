@@ -8,75 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/fork)
 
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
-
-[![Preview](assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
-
-
-## User community
-
-The vibrant community of **al-folio** users is growing!
-Academics around the world use this theme for their homepages, blogs, lab pages, as well as webpages for courses, workshops, conferences, meetups, and more.
-Check out the community webpages below.
-Feel free to add your own page(s) by sending a PR.
-
-<table>
-<tr>
-<td>Academics</td>
-<td>
-<a href="http://maruan.alshedivat.com" target="_blank">★</a>
-<a href="https://maithraraghu.com" target="_blank">★</a>
-<a href="http://platanois.org" target="_blank">★</a>
-<a href="https://otiliastr.github.io" target="_blank">★</a>
-<a href="https://www.maths.dur.ac.uk/~sxwc62/" target="_blank">★</a>
-<a href="http://jessachandler.com/" target="_blank">★</a>
-<a href="https://mayankm96.github.io/" target="_blank">★</a>
-<a href="https://markdean.info/" target="_blank">★</a>
-<a href="https://kakodkar.github.io/" target="_blank">★</a>
-<a href="https://sahirbhatnagar.com/" target="_blank">★</a>
-<a href="https://spd.gr/" target="_blank">★</a>
-<a href="https://jay-sarkar.github.io/" target="_blank">★</a>
-<a href="https://aborowska.github.io/" target="_blank">★</a>
-<a href="https://aditisgh.github.io/" target="_blank">★</a>
-<a href="https://alexhaydock.co.uk/" target="_blank">★</a>
-<a href="https://alixkeener.net/" target="_blank">★</a>
-<a href="https://andreea7b.github.io/" target="_blank">★</a>
-<a href="https://rishabhjoshi.github.io/" target="_blank">★</a>
-<a href="https://sheelabhadra.github.io/" target="_blank">★</a>
-<a href="https://giograno.me/" target="_blank">★</a>
-<a href="https://immsrini.github.io/" target="_blank">★</a>
-<a href="https://apooladian.github.io/" target="_blank">★</a>
-<a href="https://chinmoy-dutta.github.io/" target="_blank">★</a>
-<a href="https://liamcli.com/" target="_blank">★</a>
-<a href="https://yoonholee.com/" target="_blank">★</a>
-</td>
-</tr>
-<tr>
-<td>Labs</td>
-<td>
-<a href="https://www.haylab.caltech.edu/" target="_blank">★</a>
-<a href="https://sjkimlab.github.io/" target="_blank">★</a>
-<a href="https://systemconsultantgroup.github.io/scg-folio/" target="_blank">★</a>
-<a href="https://decisionlab.ucsf.edu/" target="_blank">★</a>
-</td>
-</tr>
-<tr>
-<td>Courses</td>
-<td>
-CMU PGM (<a href="https://sailinglab.github.io/pgm-spring-2019/" target="_blank">S-19</a>),
-CMU DeepRL (<a href="https://cmudeeprl.github.io/703website_f19/" target="_blank">F-19</a>, <a href="https://cmudeeprl.github.io/Spring202010403website/" target="_blank">S-20</a>, <a href="https://cmudeeprl.github.io/703website/" target="_blank">F-20</a>),
-CMU MMML (<a href="https://cmu-multicomp-lab.github.io/mmml-course/fall2020/" target="_blank">F-20</a>)
-</td>
-</tr>
-<tr>
-<td>Conferences & workshops</td>
-<td>
-ML Retrospectives (NeurIPS: <a href="https://ml-retrospectives.github.io/neurips2019/" target="_blank">2019</a>, <a href="https://ml-retrospectives.github.io/neurips2020/" target="_blank">2020</a>; ICML: <a href="https://ml-retrospectives.github.io/icml2020/" target="_blank">2020</a>),
-HAMLETS (NeurIPS: <a href="https://hamlets-workshop.github.io/" target="_blank">2020</a>),
-ICBINB (NeurIPS: <a href="https://i-cant-believe-its-not-better.github.io/" target="_blank">2020</a>)
-</td>
-</tr>
-</table>
+If you like the theme, star the [original repo](https://github.com/alshedivat/al-folio)! If you'd like to make a similar site for yourself, feel free to fork this repo or the original. I provide some links [below](#below) that helped me tweak some technical things in my branch.
 
 
 ## Getting started
@@ -98,10 +30,10 @@ $ bundle exec jekyll serve
 
 Now, feel free to customize the theme however you like (don't forget to change the name!).
 After you are done, **commit** your final changes.
-Now, you can deploy your website to [GitHub Pages](https://pages.github.com/) by running the deploy script:
+Now, you can deploy your website to [GitHub Pages](https://pages.github.com/) by running the deploy script. I like to navigate to my local repo and run:
 
 ```bash
-$ ./bin/deploy [--user]
+$ bin/deploy --user
 ```
 By default, the script uses the `master` branch for the source code and deploys the webpage to `gh-pages`.
 The optional flag `--user` tells it to deploy to `master` and use `source` for the source code instead.
@@ -113,7 +45,6 @@ Using `master` for deployment is a convention for [user and organization pages](
 url:  # should be empty
 baseurl:  # should be empty
 ```
-
 
 ### Upgrading from a previous version
 
@@ -233,6 +164,15 @@ If you have a different question, please ask on [gitter](https://gitter.im/alshe
    **A:** For personal webpages, please run `bin/deploy --user`.
    (See also relevant past issues: [#5](https://github.com/alshedivat/al-folio/issues/5), [#49](https://github.com/alshedivat/al-folio/issues/49), [#86](https://github.com/alshedivat/al-folio/issues/86).)
 
+
+<a id="below"></a>
+## Things tweaked on mariakhoudary.com
+
+1. I spent a ton of time troubleshooting how to host my default mode archive (did you know soundcloud limits your uploads to 3 hours on the free version?? I didn't!). [This post](https://portalzine.de/dev/html5/hosting-mp3-files-on-google-drive-html5-audio-player/) sealed the deal.
+2. I followed [this advice](https://gitter.im/alshedivat/al-folio?at=5f5a8890b190f2328e656862) for getting my CV to be a link on the header and not its own page.
+3. I hard-coded the order of my sites by creating a variable in the YAML header called `order`. Then in `_includes/header.html`, I went to the section `Other pages` and changed the first line after that comment to `{% assign sorted_pages = site.pages | sort: "order" %}`.
+4. Something I'm still trying to figure out how to do: insert a hyperlink under my photo on the `about` page. Because it's a variable it's not taking Markdown formatting. I'll post a fix if/when I figure it out!
+5. **BIG TIP**: you need to be committing all your changes to the `source` branch, not `master`! I've been using Atom to build my site, and thought the Git plugin was pretty neat. I then realized it became my mortal nemesis as I fell deep into the rabbithole of Google & Stackoverflow, trying to figure out why I couldn't deploy the new changes on my site. Turns out, the GUI had been committing to the `master` branch the whole time. I hope this information saves you as much time as I wasted getting to the bottom of it. Just use the goddam terminal. 
 
 ## License
 
