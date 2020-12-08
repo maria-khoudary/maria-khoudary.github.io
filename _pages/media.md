@@ -18,7 +18,7 @@ order: 2
 ## *default mode*
 
 
-The epitome of a passion project, *default mode* is a radio show wherein I play variants of psychedelic music and interview researchers in neuroscience, psychology, and philosophy. The first installment ran biweekly throughout my senior year, produced at and airing on [WZBC-Newton](https://wzbc.org), my beloved non-profit, non-commercial college radio station. The second installment is also airing biweekly on WZBC, but I'm producing it remotely from Durham.
+The epitome of a passion project, *default mode* is a radio show wherein I play variants of psychedelic music and interview researchers in neuroscience, psychology, and philosophy. The first installment ran biweekly throughout my senior year, produced at and airing on [WZBC-Newton](https://wzbc.org){:target="_blank"}, my beloved non-profit, non-commercial college radio station. The second installment is also airing biweekly on WZBC, but I'm producing it remotely from Durham.
 
 I love talking with people about the work that they do and giving them a platform to share that work with others. But something I especially loved about hosting the show live was that listeners could call in and speak directly with my guest scholar. This took the public access dimension of the show to a whole new level, and is something I really look forward to reviving if/when I can start broadcasting locally again.
 
@@ -36,7 +36,7 @@ You can listen to my most recent episode below, and check out previous episodes 
 
 ## *In Conversation*
 
-A piece of video art created by me and [Josh Artman](https://joshartman.net) that was featured in the [inaugural issue](https://indd.adobe.com/view/0b06b8d0-90e2-417f-95cc-e8169e9049ee) of [Coucou Zine](https://www.instagram.com/coucou_zine/).
+A piece of video art created by me and [Josh Artman](https://joshartman.net){:target="_blank"} that was featured in the [inaugural issue](https://indd.adobe.com/view/0b06b8d0-90e2-417f-95cc-e8169e9049ee){:target="_blank"} of [Coucou Zine](https://www.instagram.com/coucou_zine/){:target="_blank"}.
 
 <iframe src="https://player.vimeo.com/video/396028208" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/396028208">In Conversation</a> from <a href="https://vimeo.com/user109367699">Josh Artman</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -51,6 +51,6 @@ A piece of video art created by me and [Josh Artman](https://joshartman.net) tha
 
 ## *Maria*
 
-A piece of media made about me! I had the distinct pleasure of being the subject of my friend [Louise's](https://www.linkedin.com/in/louise-nessralla-270ab1111) cinematography final during our senior year. Check it out if you'd like to learn more about what WZBC means to me (and check out Louise's [Vimeo](https://vimeo.com/weezyfilms) to see how much she's grown as a filmmaker. I'm so proud of her!).
+A piece of media made about me! I had the distinct pleasure of being the subject of my friend [Louise's](https://www.linkedin.com/in/louise-nessralla-270ab1111){:target="_blank"} cinematography final during our senior year. Check it out if you'd like to learn more about what WZBC means to me (and check out Louise's [Vimeo](https://vimeo.com/weezyfilms){:target="_blank"} to see how much she's grown as a filmmaker. I'm so proud of her!).
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/356757766" width="640" height="360" frameborder="0" allowfullscreen></iframe>

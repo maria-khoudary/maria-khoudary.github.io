@@ -7,7 +7,7 @@ img: /assets/projects/moral_cog/behav_plot.png
 importance: 3
 ---
 
-I got to play around with this big dataset investigating the neural architecture of moral cognition. See my CNS 2020 poster & walkthrough below, and check out the data & code [here](https://github.com/IMC-Lab/mft_memory). Manuscript is in prep!
+I got to play around with this big dataset investigating the neural architecture of moral cognition. See my CNS 2020 poster & walkthrough below, and check out the data & code [here](https://github.com/IMC-Lab/mft_memory){:target="_blank"}. Manuscript is in prep!
 
 <html>
   <body>
