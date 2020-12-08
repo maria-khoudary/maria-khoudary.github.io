@@ -42,8 +42,10 @@
             </a>
           </li>
           {% endif %}
+          <!-- CV -->
+          <li class="nav-item"><a class="nav-link" href="{{ '/assets/pdf/khoudary_cv.pdf' | relative_url }}" target="_blank">CV</a></li>
           <!-- Other pages -->
-          {% assign sorted_pages = site.pages | sort: "title" %}
+          {% assign sorted_pages = site.pages | sort: "order" %}
           {% for p in sorted_pages %}
           {% if p.nav and p.autogen == nil %}
           <li class="nav-item {% if page.title == p.title %}active{% endif %}">

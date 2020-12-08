@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description:
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! Thanks for stopping by.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My name is [Maria Khoudary](https://mariakhoudary.com) (they/she), and I'm a lab manager and research assistant in Felipe De Brigard's [Imagination and Modal Cognition Lab](https://imclab.org) at Duke University. I also help Felipe and Walter Sinnott-Armstrong coordinate the [Summer Seminars in Neuroscience and Philosophy (SSNAP)](https://ssnap.net), a program that is just as awesome as it sounds.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated *magna cum laude* from Boston College in 2019 with a B.S. in Psychology (honors) and a second major in Philosophy. I wrote my senior thesis on the epistemic reliability of episodic memory, using an original experiment on source monitoring as a case study. I was co-advised by Maureen Ritchey and Richard Atkins, with lots of help from members of Maureen's [Memory Modulation Lab](http://thememolab.org).
+
+I'm applying to Ph.D. programs in cognitive neuroscience to pursue my dream of making a career out of studying how the brain creates the mind. I want to use my graduate studies to start integrating memory into  consciousness science, a project that will look different depending on who I end up working with. Some possible topics include: mechanisms of mnemonic metacognition, contributions of episodic memory to perceptual decision-making, delineating first- and second-order properties of memory representations, and internal attentional modulation of recollective processes and phenomenology.
+
+
+---
