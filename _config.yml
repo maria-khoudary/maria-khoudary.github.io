@@ -7,7 +7,7 @@ first_name: Maria
 middle_name:
 last_name: Khoudary
 email: maria.khoudary@duke.edu
-description: personal website for Maria A. Khoudary # the ">" symbol means to ignore newlines until "footer_text:"
+description: Maria Khoudary's personal website # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -39,7 +39,7 @@ og_image: assets/img/prof_pic.jpg # The site-wide (default for all links) Open G
 
 github_username: maria-khoudary
 twitter_username: maria_khoudary
-linkedin_username: # your LinkedIn user name
+linkedin_username: mariakhoudary
 scholar_userid: # your Google Scholar ID
 orcid_id: 0000-0002-1339-2600 # your ORCID ID
 medium_username: # your Medium username
