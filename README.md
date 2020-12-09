@@ -63,83 +63,6 @@ See [git rebase manual](https://help.github.com/en/github/using-git/about-git-re
 If rebasing is too complicated, we recommend to re-install the new version of the theme from scratch and port over your content and changes from the previous version manually.
 
 
-## Features
-
-### Publications
-
-Your publications page is generated automatically from your BibTex bibliography.
-Simply edit `_bibliography/papers.bib`.
-You can also add new `*.bib` files and customize the look of your publications however you like by editing `_pages/publications.md`.
-
-Keep meta-information about your co-authors in `_data/coauthors.yml` and Jekyll will insert links to their webpages automatically.
-
-<p align="center"><img src="assets/img/publications-screenshot.png" width=800></p>
-
-
-### Collections
-
-This Jekyll theme implements `collections` to let you break up your work into categories.
-The theme comes with two default collections: `news` and `projects`.
-Items from the `news` collection are automatically displayed on the home page.
-Items from the `projects` collection are displayed on a responsive grid on projects page.
-
-<p align="center"><img src="assets/img/projects-screenshot.png" width=700></p>
-
-You can easily create your own collections, apps, short stories, courses, or whatever your creative work is.
-To do this, edit the collections in the `_config.yml` file, create a corresponding folder, and create a landing page for your collection, similar to `_pages/projects.md`.
-
-
-### Layouts
-
-**al-folio** comes with stylish layouts for pages and blog posts.
-
-#### The iconic style of Distill
-
-The theme allows you to create blog posts in the [distill.pub](https://distill.pub/) style:
-
-<p align="center"><a href="https://alshedivat.github.io/al-folio/blog/2018/distill/" target="_blank"><img src="assets/img/distill-screenshot.png" width=700></a></p>
-
-For more details on how to create distill-styled posts using `<d-*>` tags, please refer to [the example](https://alshedivat.github.io/al-folio/blog/2018/distill/).
-
-#### Full support for math & code
-
-**al-folio** supports fast math typesetting through [KaTeX](https://katex.org/) and code syntax highlighting using [GitHub style](https://github.com/jwarby/jekyll-pygments-themes):
-
-<p align="center">
-<a href="https://alshedivat.github.io/al-folio/blog/2015/math/" target="_blank"><img src="assets/img/math-screenshot.png" width=400></a>
-<a href="https://alshedivat.github.io/al-folio/blog/2015/code/" target="_blank"><img src="assets/img/code-screenshot.png" width=400></a>
-</p>
-
-#### Photos
-
-Photo formatting is made simple using [Bootstrap's grid system](https://getbootstrap.com/docs/4.4/layout/grid/).
-Easily create beautiful grids within your blog posts and project pages:
-
-<p align="center">
-  <a href="https://alshedivat.github.io/al-folio/projects/1_project/">
-    <img src="assets/img/photos-screenshot.png" width="75%">
-  </a>
-</p>
-
-
-### Other features
-
-#### Theming
-Six beautiful theme colors have been selected to choose from.
-The default is purple, but you can quickly change it by editing `$theme-color` variable in the `_sass/variables.scss` file.
-Other color variables are listed there as well.
-
-#### Social media previews
-**al-folio** supports preview images on social media.
-To enable this functionality you will need to set `serve_og_meta` to `true` in your `_config.yml`.
-Once you have done so, all your site's pages will include Open Graph data in the HTML head element.
-
-You will then need to configure what image to display in your site's social media previews.
-This can be configured on a per-page basis, by setting the `og_image` page variable.
-If for an individual page this variable is not set, then the theme will fall back to a site-wide `og_image` variable, configurable in your `_config.yml`.
-In both the page-specific and site-wide cases, the `og_image` variable needs to hold the URL for the image you wish to display in social media previews.
-
-
 <a id="below"></a>
 ## Things tweaked on mariakhoudary.com
 
@@ -147,7 +70,7 @@ In both the page-specific and site-wide cases, the `og_image` variable needs to 
 2. I followed [this advice](https://gitter.im/alshedivat/al-folio?at=5f5a8890b190f2328e656862) for getting my CV to be a link on the header and not its own page.
 3. I hard-coded the order of my sites by creating a variable in the YAML header called `order`. Then in `_includes/header.html`, I went to the section `Other pages` and changed the first line after that comment to `{% assign sorted_pages = site.pages | sort: "order" %}`.
 4. Something I'm still trying to figure out how to do: insert a hyperlink under my photo on the `about` page. Because it's a variable it's not taking Markdown formatting. I'll post a fix if/when I figure it out!
-5. **BIG TIP**: you need to be committing all your changes to the `source` branch, not `master`! I've been using Atom to build my site, and thought the Git plugin was pretty neat. I then realized it became my mortal nemesis as I fell deep into the rabbithole of Google & Stackoverflow, trying to figure out why I couldn't deploy the new changes on my site. Turns out, the GUI had been committing to the `master` branch the whole time. I hope this information saves you as much time as I wasted getting to the bottom of it. Just use the goddam terminal. 
+5. **BIG TIP**: you need to be committing all your changes to the `source` branch, not `master`! I've been using Atom to build my site, and thought the Git plugin was pretty neat. I then realized it became my mortal nemesis as I fell deep into the rabbithole of Google & Stackoverflow, trying to figure out why I couldn't deploy the new changes on my site. Turns out, the GUI had been committing to the `master` branch the whole time. I hope this information saves you as much time as I wasted getting to the bottom of it. Just use the goddam terminal.
 
 
 ## FAQ

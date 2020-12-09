@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  address: Wondering how to <a href="https://namedrop.io/mariakhoudary" target="_blank">pronounce my name</a>?
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
