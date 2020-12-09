@@ -140,13 +140,14 @@ If for an individual page this variable is not set, then the theme will fall bac
 In both the page-specific and site-wide cases, the `og_image` variable needs to hold the URL for the image you wish to display in social media previews.
 
 
-## Contributing
+<a id="below"></a>
+## Things tweaked on mariakhoudary.com
 
-Contributions to al-folio are very welcome!
-Before you get started, please take a look at [the guidelines](CONTRIBUTING.md).
-
-If you would like to improve documentation, add your webpage to the list below, or fix a minor inconsistency or bug, please feel free to send a PR directly to `master`.
-For more complex issues/bugs or feature requests, please open an issue using the appropriate template.
+1. I spent a ton of time troubleshooting how to host my default mode archive (did you know soundcloud limits your uploads to 3 hours on the free version?? I didn't!). [This post](https://portalzine.de/dev/html5/hosting-mp3-files-on-google-drive-html5-audio-player/) sealed the deal.
+2. I followed [this advice](https://gitter.im/alshedivat/al-folio?at=5f5a8890b190f2328e656862) for getting my CV to be a link on the header and not its own page.
+3. I hard-coded the order of my sites by creating a variable in the YAML header called `order`. Then in `_includes/header.html`, I went to the section `Other pages` and changed the first line after that comment to `{% assign sorted_pages = site.pages | sort: "order" %}`.
+4. Something I'm still trying to figure out how to do: insert a hyperlink under my photo on the `about` page. Because it's a variable it's not taking Markdown formatting. I'll post a fix if/when I figure it out!
+5. **BIG TIP**: you need to be committing all your changes to the `source` branch, not `master`! I've been using Atom to build my site, and thought the Git plugin was pretty neat. I then realized it became my mortal nemesis as I fell deep into the rabbithole of Google & Stackoverflow, trying to figure out why I couldn't deploy the new changes on my site. Turns out, the GUI had been committing to the `master` branch the whole time. I hope this information saves you as much time as I wasted getting to the bottom of it. Just use the goddam terminal. 
 
 
 ## FAQ
@@ -164,15 +165,6 @@ If you have a different question, please ask on [gitter](https://gitter.im/alshe
    **A:** For personal webpages, please run `bin/deploy --user`.
    (See also relevant past issues: [#5](https://github.com/alshedivat/al-folio/issues/5), [#49](https://github.com/alshedivat/al-folio/issues/49), [#86](https://github.com/alshedivat/al-folio/issues/86).)
 
-
-<a id="below"></a>
-## Things tweaked on mariakhoudary.com
-
-1. I spent a ton of time troubleshooting how to host my default mode archive (did you know soundcloud limits your uploads to 3 hours on the free version?? I didn't!). [This post](https://portalzine.de/dev/html5/hosting-mp3-files-on-google-drive-html5-audio-player/) sealed the deal.
-2. I followed [this advice](https://gitter.im/alshedivat/al-folio?at=5f5a8890b190f2328e656862) for getting my CV to be a link on the header and not its own page.
-3. I hard-coded the order of my sites by creating a variable in the YAML header called `order`. Then in `_includes/header.html`, I went to the section `Other pages` and changed the first line after that comment to `{% assign sorted_pages = site.pages | sort: "order" %}`.
-4. Something I'm still trying to figure out how to do: insert a hyperlink under my photo on the `about` page. Because it's a variable it's not taking Markdown formatting. I'll post a fix if/when I figure it out!
-5. **BIG TIP**: you need to be committing all your changes to the `source` branch, not `master`! I've been using Atom to build my site, and thought the Git plugin was pretty neat. I then realized it became my mortal nemesis as I fell deep into the rabbithole of Google & Stackoverflow, trying to figure out why I couldn't deploy the new changes on my site. Turns out, the GUI had been committing to the `master` branch the whole time. I hope this information saves you as much time as I wasted getting to the bottom of it. Just use the goddam terminal. 
 
 ## License
 
