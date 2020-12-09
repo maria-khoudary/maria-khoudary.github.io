@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: philosophically-minded aspiring cognitive (neuro)scientist
+description: philosophically-minded aspiring cognitive neuroscientist
 
 profile:
   align: right
