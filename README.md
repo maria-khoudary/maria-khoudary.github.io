@@ -52,8 +52,8 @@ baseurl:  # should be empty
 2. I followed [this advice](https://gitter.im/alshedivat/al-folio?at=5f5a8890b190f2328e656862) for getting my CV to be a link on the header and not its own page.
 3. I hard-coded the order of my sites by creating a variable in the YAML header called `order`. Then in `_includes/header.html`, I went to the section `Other pages` and changed the first line after that comment to `{% assign sorted_pages = site.pages | sort: "order" %}`.
 4. Something I'm still trying to figure out how to do: insert a hyperlink under my photo on the `about` page. --> figured it out! you need to use html formatting because it's a variable. template in case, like me, you're learning html as you build your site: `Wondering how to <a href="https://namedrop.io/mariakhoudary" target="_blank">pronounce my name</a>?`
-5. I'm using [this site](https://www.readmodwrite.com/2019-01-18-jekyll-seo-tags/) to increase my SEO. Will report experience with each method.
-    - [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap)
+5. I used [jekyll-sitemap](https://github.com/jekyll/jekyll-sitemap) and [jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) to help increase my SEO.
+6. I didn't like how the description on `about` looked on my site, so I commented it out of `_layouts/about.html`. It still works on previews though! And if you want to make it smaller, you can prefix the `class` call with `<p style="font-size:12px;"` (or whatever font size you want).
 
 
 ## FAQ

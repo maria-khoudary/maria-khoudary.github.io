@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about | Maria Khoudary
+title: Maria Khoudary
 permalink: /
-description: philosophically-minded aspiring cognitive neuroscientist
+description: neuroscientist-in-training
 
 profile:
   align: right
