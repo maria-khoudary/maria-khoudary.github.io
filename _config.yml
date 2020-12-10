@@ -117,6 +117,7 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-sitemap
+  - jekyll-seo-tag
   # - bootstrap
   # - material-sass
 
