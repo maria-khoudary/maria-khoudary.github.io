@@ -53,7 +53,7 @@ spotify_url: https://open.spotify.com/user/mariak0218?si=5DaYWMr4Rk-sUs7oz-eibw
 contact_note: >
   I love meeting new people. Get in touch if anything I do sounds interesting!
 
-# google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: UA-185285640-1 # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -116,6 +116,7 @@ plugins:
   - jekyll/scholar
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-sitemap
   # - bootstrap
   # - material-sass
 
