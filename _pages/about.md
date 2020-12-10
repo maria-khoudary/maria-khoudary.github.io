@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: about | Maria Khoudary
 permalink: /
 description: philosophically-minded aspiring cognitive neuroscientist
 
