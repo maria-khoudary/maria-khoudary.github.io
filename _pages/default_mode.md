@@ -18,6 +18,8 @@ order: 4
 - [Enoch Lambert](#enoch) on free will, determinism, and illusionism
 - [Kevin O'Neill](#kevin) on causation, self-aware robots, and computational metaphilosophy
 - [Anna Smith](#anna) on memory, mind-wandering, and neuroaesthetics
+- [Sade Abiodun](#sade) on meta-science, plurality, and neurocinematics
+- [Leonard Faul](#leonard) on mood, emotion, and memory
 
 <br>
 
@@ -106,5 +108,29 @@ I talk with [Anna Smith](https://psychandneuro.duke.edu/people/anna-smith){:targ
 <p>This browser does not support HTML5 audio</p>
 </audio>
 
+<a id='sade'></a>
 
+<br>
+
+#### 1/14/2021
+I talk with [Sade Abiodun](https://sade.space){:target='_blank'}, Ph.D. student at Princeton University, about meta-science, plurality, and how neurocinematics and web design are more similar than you might think. Playlist available [here](https://spinitron.com/WZBC/pl/12463039/default-mode){:target='_blank'}.
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=14Sa8PSTGqPTFCiPUWpsJr4AKUXozepKF" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
+<a id='leonard'></a>
+
+<br>
+
+#### 1/28/2021
+I talk with [Leonard Faul](https://dibs.duke.edu/people/leonard-faul), Ph.D. candidate at Duke University about mood, emotion, and memory.
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=1i2ODT6nPT6RUqDWDB7DSmfgX4fJuThkG" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
+<br>
 ---
