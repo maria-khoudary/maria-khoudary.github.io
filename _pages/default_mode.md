@@ -20,6 +20,8 @@ order: 4
 - [Anna Smith](#anna) on memory, mind-wandering, and neuroaesthetics
 - [Sade Abiodun](#sade) on meta-science, plurality, and neurocinematics
 - [Leonard Faul](#leonard) on mood, emotion, and memory
+- [Allie Sinclair](#allie) on memory, belief updating, and learning from error
+- [Eric Juarez](#eric) on aging, decision-making, and the stories we tell ourselves.
 
 <br>
 
@@ -125,10 +127,34 @@ I talk with [Sade Abiodun](https://sade.space){:target='_blank'}, Ph.D. student 
 <br>
 
 #### 1/28/2021
-I talk with [Leonard Faul](https://dibs.duke.edu/people/leonard-faul), Ph.D. candidate at Duke University about mood, emotion, and memory.
+I talk with [Leonard Faul](https://dibs.duke.edu/people/leonard-faul), Ph.D. candidate at Duke University, about mood, emotion, and memory.
 
 <audio controls>
 <source src="https://docs.google.com/uc?export=open&id=1i2ODT6nPT6RUqDWDB7DSmfgX4fJuThkG" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
+<a id='allie'></a>
+
+<br>
+
+#### 02/11/2021
+I talk with [Allie Sinclair](alyssasinclair.com//), Ph.D. candidate at Duke University, about memory, belief updating, and learning from error.
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=1zJ_7dgkAEU7y3BYa85z4SmwPzSWKrG_K" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
+<a id='eric'></a>
+
+<br>
+
+#### 02/11/2021
+I talk with [Eric Juarez](https://psychandneuro.duke.edu/people/eric-juarez), Ph.D. candidate at Duke University, about aging, decision-making, and the stories we tell ourselves.
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=18izi7oqIdfL1A48skIg7HkPMnWCNkQfh" type="audio/mp3">
 <p>This browser does not support HTML5 audio</p>
 </audio>
 
