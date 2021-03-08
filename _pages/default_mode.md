@@ -150,7 +150,7 @@ I talk with [Allie Sinclair](alyssasinclair.com//), Ph.D. candidate at Duke Univ
 
 <br>
 
-#### 02/11/2021
+#### 02/25/2021
 I talk with [Eric Juarez](https://psychandneuro.duke.edu/people/eric-juarez), Ph.D. candidate at Duke University, about aging, decision-making, and the stories we tell ourselves.
 
 <audio controls>

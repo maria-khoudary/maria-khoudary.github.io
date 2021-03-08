@@ -2,7 +2,7 @@
 layout: about
 title: Maria Khoudary
 permalink: /
-description: neuroscientist-in-training
+description: cognitive (neuro)scientist-in-training
 
 profile:
   align: right
@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! Thanks for stopping by.
 
-My name is [Maria Khoudary](https://namedrop.io/mariakhoudary){:target="_blank"} (they/she), and I'm a lab manager and research assistant in Felipe De Brigard's [Imagination and Modal Cognition Lab](https://imclab.org){:target="_blank"} at Duke University. I also help Felipe and Walter Sinnott-Armstrong coordinate the [Summer Seminars in Neuroscience and Philosophy (SSNAP)](https://ssnap.net){:target="_blank"}, a program that is just as awesome as it sounds.
+My name is [Maria Khoudary](https://namedrop.io/mariakhoudary){:target="_blank"} (they/them/هي), and I'm a lab manager and research assistant in Felipe De Brigard's [Imagination and Modal Cognition Lab](https://imclab.org){:target="_blank"} at Duke University. I also help Felipe and Walter Sinnott-Armstrong coordinate the [Summer Seminars in Neuroscience and Philosophy (SSNAP)](https://ssnap.net){:target="_blank"}, a program that is just as awesome as it sounds.
 
 I graduated *magna cum laude* from Boston College in 2019 with a B.S. in Psychology (honors) and a second major in Philosophy. I wrote my senior thesis on the epistemic reliability of episodic memory, using an original experiment on source monitoring as a case study. I was co-advised by Maureen Ritchey and Richard Atkins, with lots of help from members of Maureen's [Memory Modulation Lab](http://thememolab.org){:target="_blank"}.
 
