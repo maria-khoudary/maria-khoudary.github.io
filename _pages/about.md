@@ -6,8 +6,8 @@ description: cognitive (neuro)scientist-in-training
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: Wondering how to <a href="https://namedrop.io/mariakhoudary" target="_blank">pronounce my name</a>?
+  image: prof_pic.jpeg
+  address:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,6 +20,6 @@ My name is [Maria Khoudary](https://namedrop.io/mariakhoudary){:target="_blank"}
 
 I graduated *magna cum laude* from Boston College in 2019 with a B.S. in Psychology (honors) and a second major in Philosophy. I wrote my senior thesis on the epistemic reliability of episodic memory, using an original experiment on source monitoring as a case study. I was co-advised by [Maureen Ritchey](https://www.bc.edu/bc-web/schools/mcas/departments/psychology/people/faculty-directory/maureen-ritchey.html){:target="_blank"} and [Richard Atkins](https://www.bc.edu/bc-web/schools/mcas/departments/philosophy/people/faculty-directory/richard-kenneth-atkins.html){:target="_blank"}, with lots of help from members of Maureen's [Memory Modulation Lab](http://thememolab.org){:target="_blank"}.
 
-Beginning in the fall of 2021, I'll be joining [Megan Peters](https://faculty.sites.uci.edu/cnclab/){:target="_blank"} at the [University of California, Irvine](https://uci.edu/){:target="_blank"} to get my PhD in [Cognitive Science]((https://www.cogsci.uci.edu/index.php){:target="_blank"} with a concentration in Cognitive Neuroscience! With co-supervision by [Aaron Bornstein](http://aaron.bornstein.org/){:target="_blank"}, I'm going to spend the next 5 (or so) years doing a deep dive on metacognition, memory, and computational modeling, while keeping my toes in consciousness research as well :) I'm so excited to get started! 
+Beginning in the fall of 2021, I'll be joining [Megan Peters](https://faculty.sites.uci.edu/cnclab/){:target="_blank"} at the [University of California, Irvine](https://uci.edu/){:target="_blank"} to get my PhD in [Cognitive Science](https://www.cogsci.uci.edu/index.php){:target="_blank"} with a concentration in Cognitive Neuroscience. With co-supervision by [Aaron Bornstein](http://aaron.bornstein.org/){:target="_blank"}, I'll be doing a deep dive on metacognition, memory, and computational modeling, and thinking about what that has to do with consciousness. I'm so excited to get started!
 
 ---
