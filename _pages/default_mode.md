@@ -21,11 +21,12 @@ order: 4
 - [Sade Abiodun](#sade) on meta-science, plurality, and neurocinematics
 - [Leonard Faul](#leonard) on mood, emotion, and memory
 - [Allie Sinclair](#allie) on memory, belief updating, and learning from error
-- [Eric Juarez](#eric) on aging, decision-making, and the stories we tell ourselves.
+- [Eric Juarez](#eric) on aging, decision-making, and the stories we tell ourselves
+- [Kristina Krasich](#kristina) on mind-wandering, responsibility, and visual perception
 
 <br>
 
-#### Installment One: produced in Chestnut Hill, MA; aired biweekly Thursdays at 6pm on [WZBC-Newton](https://wzbc.org){:target="_blank"}
+#### Installment One: produced in Chestnut Hill, MA; aired biweekly Thursdays on [WZBC-Newton](https://wzbc.org){:target="_blank"}
 
 <br>
 <a id="rosie"></a>
@@ -85,7 +86,7 @@ I talk with [Enoch Lambert](https://philpeople.org/profiles/enoch-lambert/public
 
 <br>
 
-#### Installment Two: produced in Durham, NC; aired biweekly Thursdays at 5pm on [WZBC-Newton](https://wzbc.org){:target="_blank"}
+#### Installment Two: produced in Durham, NC; aired biweekly Thursdays on [WZBC-Newton](https://wzbc.org){:target="_blank"}
 
 <br>
 
@@ -127,7 +128,7 @@ I talk with [Sade Abiodun](https://sade.space){:target='_blank'}, Ph.D. student 
 <br>
 
 #### 1/28/2021
-I talk with [Leonard Faul](https://dibs.duke.edu/people/leonard-faul), Ph.D. candidate at Duke University, about mood, emotion, and memory.
+I talk with [Leonard Faul](https://dibs.duke.edu/people/leonard-faul){:target="_blank"}, Ph.D. candidate at Duke University, about mood, emotion, and memory. Playlist available [here](https://spinitron.com/WZBC/pl/12509383/default-mode){:target="_blank"}.
 
 <audio controls>
 <source src="https://docs.google.com/uc?export=open&id=1i2ODT6nPT6RUqDWDB7DSmfgX4fJuThkG" type="audio/mp3">
@@ -139,7 +140,7 @@ I talk with [Leonard Faul](https://dibs.duke.edu/people/leonard-faul), Ph.D. can
 <br>
 
 #### 02/11/2021
-I talk with [Allie Sinclair](alyssasinclair.com//), Ph.D. candidate at Duke University, about memory, belief updating, and learning from error.
+I talk with [Allie Sinclair](alyssasinclair.com//){:target="_blank"}, Ph.D. candidate at Duke University, about memory, belief updating, and learning from error. Playlist available [here](https://spinitron.com/WZBC/pl/12602891/default-mode){:target="_blank"}
 
 <audio controls>
 <source src="https://docs.google.com/uc?export=open&id=1zJ_7dgkAEU7y3BYa85z4SmwPzSWKrG_K" type="audio/mp3">
@@ -151,12 +152,25 @@ I talk with [Allie Sinclair](alyssasinclair.com//), Ph.D. candidate at Duke Univ
 <br>
 
 #### 02/25/2021
-I talk with [Eric Juarez](https://psychandneuro.duke.edu/people/eric-juarez), Ph.D. candidate at Duke University, about aging, decision-making, and the stories we tell ourselves.
+I talk with [Eric Juarez](https://psychandneuro.duke.edu/people/eric-juarez){:target="_blank"}, Ph.D. candidate at Duke University, about aging, decision-making, and the stories we tell ourselves. Playlist available [here](https://spinitron.com/WZBC/pl/12696035/default-mode){:target="_blank"}.
 
 <audio controls>
 <source src="https://docs.google.com/uc?export=open&id=18izi7oqIdfL1A48skIg7HkPMnWCNkQfh" type="audio/mp3">
 <p>This browser does not support HTML5 audio</p>
 </audio>
 
+<a id='kristina'></a>
+
 <br>
+
+#### 04/08/2021
+I talk with [Kristina Krasich](https://sites.duke.edu/kkrasich/){:target="_blank"}, postdoctoral associate at Duke University, about mind-wandering, responsibility, and visual perception (among many other things).
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=1Uq7OZcdIaRYCYZk1b0MbShhDWbWCDK84" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
+<br>
+
 ---

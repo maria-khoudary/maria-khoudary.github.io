@@ -15,7 +15,7 @@ order: 2
 
 <br>
 
-## *default mode*
+## [*default mode*](https://mariakhoudary.com/default_mode){:target="_blank"}
 
 
 The epitome of a passion project, *default mode* is a radio show wherein I play variants of psychedelic music and interview researchers in neuroscience, psychology, and philosophy. The first installment ran biweekly throughout my senior year, produced at and airing on [WZBC-Newton](https://wzbc.org){:target="_blank"}, my beloved non-profit, non-commercial college radio station. The second installment is also airing biweekly on WZBC, but I'm producing it remotely from Durham.
@@ -26,7 +26,7 @@ You can listen to my most recent episode below, and check out previous episodes 
 
 
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/992956972&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mariakhoudary" title="Maria Khoudary" target="_blank" style="color: #cccccc; text-decoration: none;">Maria Khoudary</a> · <a href="https://soundcloud.com/mariakhoudary/juarez" title="memory, aging, and decision-making: Eric Juarez" target="_blank" style="color: #cccccc; text-decoration: none;">memory, aging, and decision-making: Eric Juarez</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1025274427&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mariakhoudary" title="Maria Khoudary" target="_blank" style="color: #cccccc; text-decoration: none;">Maria Khoudary</a> · <a href="https://soundcloud.com/mariakhoudary/krasich" title="mind-wandering, responsibility, and visual perception: Kristina Krasich" target="_blank" style="color: #cccccc; text-decoration: none;">mind-wandering, responsibility, and visual perception: Kristina Krasich</a></div>
 
 <br>
 

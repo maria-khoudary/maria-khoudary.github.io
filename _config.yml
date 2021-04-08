@@ -35,7 +35,7 @@ og_image: assets/img/prof_pic.jpeg # The site-wide (default for all links) Open 
 twitter:
   username: maria_khoudary
   card: summary
-logo: assets/img/favicon.png
+logo: ../assets/img/favicon.png
 
 # -----------------------------------------------------------------------------
 # Social integration
