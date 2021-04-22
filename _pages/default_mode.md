@@ -23,6 +23,7 @@ order: 4
 - [Allie Sinclair](#allie) on memory, belief updating, and learning from error
 - [Eric Juarez](#eric) on aging, decision-making, and the stories we tell ourselves
 - [Kristina Krasich](#kristina) on mind-wandering, responsibility, and visual perception
+- [Brenda Yang](#brenda) on fiction, imagination, and memory
 
 <br>
 
@@ -164,10 +165,22 @@ I talk with [Eric Juarez](https://psychandneuro.duke.edu/people/eric-juarez){:ta
 <br>
 
 #### 04/08/2021
-I talk with [Kristina Krasich](https://sites.duke.edu/kkrasich/){:target="_blank"}, postdoctoral associate at Duke University, about mind-wandering, responsibility, and visual perception (among many other things).
+I talk with [Kristina Krasich](https://sites.duke.edu/kkrasich/){:target="_blank"}, postdoctoral associate at Duke University, about mind-wandering, responsibility, and visual perception (among many other things). Playlist available [here](https://spinitron.com/WZBC/pl/12986126/default-mode){:target="_blank"}.
 
 <audio controls>
 <source src="https://docs.google.com/uc?export=open&id=1Uq7OZcdIaRYCYZk1b0MbShhDWbWCDK84" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
+<a id='brenda'></a>
+
+<br>
+
+#### 04/23/2021
+I talk with [Brenda Yang, PhD](https://brendawyang.github.io/mysite/){:target="_blank"}, about how memories for fiction interact with imagination to structure our models of the world and of our selves
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=1WFsJTLrfasJ_P1CU7Frr8zGag84OxFxJ" type="audio/mp3">
 <p>This browser does not support HTML5 audio</p>
 </audio>
 
