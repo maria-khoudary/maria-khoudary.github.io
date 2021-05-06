@@ -24,6 +24,7 @@ order: 4
 - [Eric Juarez](#eric) on aging, decision-making, and the stories we tell ourselves
 - [Kristina Krasich](#kristina) on mind-wandering, responsibility, and visual perception
 - [Brenda Yang](#brenda) on fiction, imagination, and memory
+- [Felipe De Brigard](#felipe) on philosophy & neuroscience, hypothetical thinking, and the hippocampus
 
 <br>
 
@@ -184,6 +185,16 @@ I talk with [Brenda Yang, PhD](https://brendawyang.github.io/mysite/){:target="_
 <p>This browser does not support HTML5 audio</p>
 </audio>
 
+<a id='felipe'></a>
+
 <br>
+
+#### 05/06/2021
+I talk with [Felipe De Brigard](https://imclab.org/people){:target="_blank"} about how he uses the tools of neuroscience and philosophy to ask questions about the nature of human thought.
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=1RT9kMz7tSvgNxTl9mem9k8ebczVn5nB-" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
 
 ---
