@@ -25,6 +25,7 @@ order: 4
 - [Kristina Krasich](#kristina) on mind-wandering, responsibility, and visual perception
 - [Brenda Yang](#brenda) on fiction, imagination, and memory
 - [Felipe De Brigard](#felipe) on philosophy & neuroscience, hypothetical thinking, and the hippocampus
+- [Paul Henne](#paul) on causal reasoning, causation, and experimental philosophy
 
 <br>
 
@@ -196,5 +197,23 @@ I talk with [Felipe De Brigard](https://imclab.org/people){:target="_blank"} abo
 <source src="https://docs.google.com/uc?export=open&id=1RT9kMz7tSvgNxTl9mem9k8ebczVn5nB-" type="audio/mp3">
 <p>This browser does not support HTML5 audio</p>
 </audio>
+
+<a id='paul'></a>
+
+<br>
+
+#### Installment Three: produced in Durham, NC; aired biweekly Fridays on [WZBC-Newton](https://wzbc.org){:target="_blank"}
+
+<br>
+
+#### 05/21/2021
+I talk with [Paul Henne](http://www.paulhenne.com/){:target="_blank"}, assistant professor at Lake Forest College, about causal reasoning, causation, and experimental philosophy.
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=1ZXw9zGmWhENrfk-N6am71ETGncMnHJxp" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
+<br>
 
 ---
