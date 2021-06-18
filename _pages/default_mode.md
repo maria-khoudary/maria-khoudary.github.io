@@ -26,6 +26,7 @@ order: 4
 - [Brenda Yang](#brenda) on fiction, imagination, and memory
 - [Felipe De Brigard](#felipe) on philosophy & neuroscience, hypothetical thinking, and the hippocampus
 - [Paul Henne](#paul) on causal reasoning, causation, and experimental philosophy
+- [Austin Baker](#austin) on social philosophy, bias & stereotypes, and queerness
 
 <br>
 
@@ -214,6 +215,17 @@ I talk with [Paul Henne](http://www.paulhenne.com/){:target="_blank"}, assistant
 <p>This browser does not support HTML5 audio</p>
 </audio>
 
+<a id='austin'></a>
+
 <br>
+
+#### 06/18/2021
+I talk with Austin Baker, PhD, postdoctoral assistant professor at Rutgers University, about social philosophy, the science of bias & stereotypes, and queerness.
+
+<audio controls>
+<source src="https://docs.google.com/uc?export=open&id=1GOTJKTx1f7OfETdIxSjrjhLHIXkZnd6i" type="audio/mp3">
+<p>This browser does not support HTML5 audio</p>
+</audio>
+
 
 ---
